@@ -34,7 +34,7 @@
 - GUI Application that allows the user to draw one line by dragging the mouse on the frame.
 
 - Modify the previous Jframe to allow the user can draw multiple lines.
-  Store the drawn lines in an array to be able to redraw them again when the panel is repainted.
+  Store the drawn lines in an array to be able to redraw them again when the panel is repainted.(Using Vector)
  
 
 
